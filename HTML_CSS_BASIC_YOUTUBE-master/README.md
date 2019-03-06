@@ -1,7 +1,3 @@
-
-# HTML_CSS_BASIC_YOUTUBE
-Basic replica off a youtube website using css and html
-
 # HTML_CSS_BASIC_YOUTUBE
 Basic replica off a Youtube website using css and html only.
 
